@@ -1,0 +1,4 @@
+# Geen Python packages nodig.
+# Python 3.10+ aanbevolen.
+# For ChatGPT/OpenAI models: set OPENAI_API_KEY and EVAL_LLM_PROVIDER=openai.
+# For local models: install Ollama and pull a model, e.g. qwen2.5:3b.
